@@ -34,3 +34,4 @@ jobs:
       run: |
         # Ensures your main scripts can actually be compiled
         python -m py_compile main.py benchmark.py
+
